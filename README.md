@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my demo repository.
 <br>
-Author: Ankur Yadav
+Author: Ankur (Yadav)
